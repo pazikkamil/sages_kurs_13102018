@@ -1,0 +1,500 @@
+   63  2018-09-23 15:20:53 ls
+   64  2018-09-23 15:21:10 pip freeze 
+   65  2018-09-23 15:21:17 pip freeze | wc -l
+   66  2018-09-23 15:21:21 ls
+   67  2018-09-23 15:21:25 source datascience/venv/bin/activate
+   68  2018-09-23 15:21:28 pip freeze | wc -l
+   69  2018-09-22 07:54:51 cd code/
+   70  2018-09-22 07:54:52 ls
+   71  2018-09-22 07:55:21 cd cd naukapython/
+   72  2018-09-22 07:55:21 ls
+   73  2018-09-22 07:55:24 cd naukapython/
+   74  2018-09-22 07:55:26 ls
+   75  2018-09-22 07:55:30 cd ..
+   76  2018-09-22 07:55:34 cd ..
+   77  2018-09-22 07:55:36 cd Documents/
+   78  2018-09-22 07:55:37 ls
+   79  2018-09-22 07:55:40 ls
+   80  2018-09-22 07:56:06 ls
+   81  2018-09-22 07:56:10 locate bootega
+   82  2018-09-22 07:56:34 cd sages/
+   83  2018-09-22 07:56:34 ls
+   84  2018-09-22 07:56:36 cd ..
+   85  2018-09-22 07:56:50 find . -type d -iname venv
+   86  2018-09-22 07:56:58 cd ..
+   87  2018-09-22 07:56:59 pwd
+   88  2018-09-22 07:57:01 find . -type d -iname venv
+   89  2018-09-22 07:58:19 find . -type f -iname *.ipynb
+   90  2018-09-22 07:58:46 jupyter-notebook 
+   91  2018-09-21 00:18:31 bc -l
+   92  2018-09-21 00:26:43 bc -l
+   93  2018-09-22 00:20:51 cd code/
+   94  2018-09-22 00:21:07 find . -type f -iname "oop"
+   95  2018-09-22 00:21:33 ls
+   96  2018-09-22 00:21:45 locate oop
+   97  2018-09-22 00:21:50 locate kodolamacz
+   98  2018-09-22 00:21:53 ls
+   99  2018-09-22 00:23:12 cd Courses/
+  100  2018-09-22 00:23:13 ls
+  101  2018-09-22 00:23:15 cd ..
+  102  2018-09-22 00:23:16 ls
+  103  2018-09-22 00:23:28 pwd
+  104  2018-09-22 00:23:53 cd ..
+  105  2018-09-22 00:23:57 cd Documents/
+  106  2018-09-22 00:23:57 ls
+  107  2018-09-22 00:24:35 cd Szkolenia_kodolamacz/
+  108  2018-09-22 00:24:36 ls
+  109  2018-09-22 00:25:37 ls
+  110  2018-09-22 00:25:39 cd oop
+  111  2018-09-22 00:25:39 ls
+  112  2018-09-22 00:25:43 source venv/bin/activate
+  113  2018-09-22 00:25:45 ls
+  114  2018-09-22 00:25:48 jupyter-notebook 
+  115  2018-09-23 17:15:10 jupyter-notebook 
+  116  2018-09-22 09:28:21 ls
+  117  2018-09-22 09:28:25 pwd
+  118  2018-09-22 00:50:05 cd /Users/kamil/Documents/Szkolenia_kodolamacz/oop
+  119  2018-09-22 00:50:06 ls
+  120  2018-09-22 00:50:33 git remote -v
+  121  2018-09-22 07:22:39 pwd
+  122  2018-09-22 07:22:40 ls
+  123  2018-09-22 07:22:53 ls
+  124  2018-09-22 07:22:55 cd ..
+  125  2018-09-22 07:22:55 ls
+  126  2018-09-22 07:22:59 cd oop2
+  127  2018-09-22 07:22:59 ls
+  128  2018-09-22 07:23:07 source venv/bin/activate
+  129  2018-09-22 07:23:10 jupyter-notebook 
+  130  2018-09-23 17:14:34 jupyter-notebook 
+  131  2018-09-22 19:50:31 bc -l
+  132  2018-09-23 10:11:47 cd code/sages_sql/
+  133  2018-09-23 10:11:48 ls
+  134  2018-09-23 10:11:52 git status
+  135  2018-09-23 10:12:16 cd ..
+  136  2018-09-23 10:12:19 cd kurs_sages_sql/
+  137  2018-09-23 10:12:21 git status
+  138  2018-09-23 10:12:51 nano .gitignore
+  139  2018-09-23 10:13:12 git status
+  140  2018-09-23 10:13:43 git status
+  141  2018-09-23 10:13:56 git diff
+  142  2018-09-23 10:14:01 git status
+  143  2018-09-23 10:14:04 git add .
+  144  2018-09-23 10:14:07 git diff
+  145  2018-09-23 10:14:11 git diff --staged
+  146  2018-09-23 10:14:13 ls
+  147  2018-09-23 10:14:15 git diff --staged
+  148  2018-09-23 10:14:27 git diff --staged
+  149  2018-09-23 10:14:44 git status
+  150  2018-09-23 10:15:01 git commit -m "pierwsze wspoldzielone repo"
+  151  2018-09-23 10:15:07 git push origin master
+  152  2018-09-23 10:15:52 git pull origin master
+  153  2018-09-23 10:18:21 ls -alt
+  154  2018-09-23 10:23:20 git status
+  155  2018-09-23 10:23:23 git diff
+  156  2018-09-23 10:23:41 git
+  157  2018-09-23 10:23:43 git status
+  158  2018-09-23 10:23:49 git add .
+  159  2018-09-23 10:23:59 git commit -m "Opis sql"
+  160  2018-09-23 10:24:04 git push origin master
+  161  2018-09-23 11:39:02 pwd
+  162  2018-09-23 11:39:05 git status
+  163  2018-09-23 11:39:17 git diff
+  164  2018-09-23 11:39:24 git add .
+  165  2018-09-23 11:39:34 git commit -m "+create_engine"
+  166  2018-09-23 11:39:38 git push origin master
+  167  2018-09-23 13:46:04 git status
+  168  2018-09-23 13:46:06 git diff
+  169  2018-09-23 13:46:55 git status
+  170  2018-09-23 13:46:56 git add .
+  171  2018-09-23 13:47:07 git commit -m "+User model"
+  172  2018-09-23 13:47:09 git push origin master
+  173  2018-09-23 13:57:24 git status
+  174  2018-09-23 13:57:26 git diff
+  175  2018-09-23 14:07:26 git status
+  176  2018-09-23 14:07:27 git add .
+  177  2018-09-23 14:07:36 git commit -m "+commit"
+  178  2018-09-23 14:07:37 git push origin master
+  179  2018-09-23 14:28:48 git status
+  180  2018-09-23 14:28:50 git add .
+  181  2018-09-23 14:28:56 git commit -m "+zadanie"
+  182  2018-09-23 14:28:59 git push origin master
+  183  2018-09-23 14:58:16 git status
+  184  2018-09-23 14:58:17 git add .
+  185  2018-09-23 14:58:24 git commit -m "+zapytania"
+  186  2018-09-23 14:58:26 git push origin master
+  187  2018-09-23 15:32:42 git status
+  188  2018-09-23 15:33:02 git add .
+  189  2018-09-23 15:33:09 git commit -m "+zadania"
+  190  2018-09-23 15:33:10 git push origin master
+  191  2018-09-23 16:31:11 git status
+  192  2018-09-23 16:31:13 git add .
+  193  2018-09-23 16:31:18 git commit -m "+zadania 2"
+  194  2018-09-23 16:31:20 git push origin master
+  195  2018-09-23 16:34:41 git status
+  196  2018-09-23 16:34:43 git add .
+  197  2018-09-23 16:34:53 git commit -m "x"
+  198  2018-09-23 16:34:54 git push origin master
+  199  2018-09-23 16:47:25 git status
+  200  2018-09-23 16:47:27 git add .
+  201  2018-09-23 16:47:33 git commit -m "+Joiny"
+  202  2018-09-23 16:47:35 git push origin master
+  203  2018-09-23 16:52:21 git status
+  204  2018-09-23 16:52:23 git add .
+  205  2018-09-23 16:52:26 git commit -m "+Joiny v2"
+  206  2018-09-23 16:52:28 git push origin master
+  207  2018-09-23 17:01:42 git status
+  208  2018-09-23 17:01:43 git add .
+  209  2018-09-23 17:01:46 git commit -m "+Joiny v3"
+  210  2018-09-23 17:01:48 git push origin master
+  211  2018-09-23 17:23:14 git status
+  212  2018-09-23 17:23:16 git add .
+  213  2018-09-23 17:23:21 git commit -m "+Joiny v4"
+  214  2018-09-23 17:23:23 git push origin master
+  215  2018-09-23 17:27:35 git status
+  216  2018-09-23 17:27:38 git add .
+  217  2018-09-23 17:27:42 git commit -m "+Joiny fix"
+  218  2018-09-23 17:27:44 git push origin master
+  219  2018-09-23 17:28:44 git status
+  220  2018-09-23 17:28:48 git diff
+  221  2018-09-23 17:29:19 git status
+  222  2018-09-23 17:29:21 git add .
+  223  2018-09-23 17:29:26 git commit -m "+Joiny fix2"
+  224  2018-09-23 17:29:29 git push origin master
+  225  2018-09-23 17:45:38 git status
+  226  2018-09-23 17:45:40 git add .
+  227  2018-09-23 17:45:43 git commit -m "+Joiny fix3"
+  228  2018-09-23 17:45:45 git push origin master
+  229  2018-09-23 17:51:34 git commit -m "+Joiny fix4"
+  230  2018-09-23 17:51:36 git add .
+  231  2018-09-23 17:51:37 git commit -m "+Joiny fix4"
+  232  2018-09-23 17:51:39 git push origin master
+  233  2018-09-23 10:00:56 ls
+  234  2018-09-23 10:01:28 ls
+  235  2018-09-23 10:01:44 cd 
+  236  2018-09-23 10:01:52 ls
+  237  2018-09-23 10:02:15 ls
+  238  2018-09-23 10:02:30 ls
+  239  2018-09-23 10:02:38 pwd
+  240  2018-09-23 10:02:39 cd code/
+  241  2018-09-23 10:02:40 ls
+  242  2018-09-23 10:03:23 ls
+  243  2018-09-23 10:03:52 pwd
+  244  2018-09-23 10:04:10 mkdir sages_sql
+  245  2018-09-23 10:04:11 cd sages_sql/
+  246  2018-09-23 10:04:12 ls
+  247  2018-09-23 10:04:19 python3 -m venv vevn
+  248  2018-09-23 10:04:22 python3 -m venv venv
+  249  2018-09-23 10:04:29 ls
+  250  2018-09-23 10:04:36 source venv/bin/activate
+  251  2018-09-23 10:04:41 pip install jupyter-notebook
+  252  2018-09-23 10:04:48 pip install notebook
+  253  2018-09-23 10:05:14 ls
+  254  2018-09-23 10:05:18 deactivate 
+  255  2018-09-23 10:05:21 ls
+  256  2018-09-23 10:05:22 cd ..
+  257  2018-09-23 10:05:23 ls
+  258  2018-09-23 10:05:39 mkdir kurs_sages_sql
+  259  2018-09-23 10:05:57 source  datascience/venv/bin/activate
+  260  2018-09-23 10:05:59 ls
+  261  2018-09-23 10:06:03 ls
+  262  2018-09-23 10:06:07 cd kurs_sages_sql/
+  263  2018-09-23 10:07:37 ls
+  264  2018-09-23 10:07:38 pwd
+  265  2018-09-23 10:07:41 echo "# sages_sql" >> README.md
+  266  2018-09-23 10:07:41 git init
+  267  2018-09-23 10:07:41 git add README.md
+  268  2018-09-23 10:07:41 git commit -m "first commit"
+  269  2018-09-23 10:07:41 git remote add origin https://github.com/pazikkamil/sages_sql.git
+  270  2018-09-23 10:07:44 git push -u origin master
+  271  2018-09-23 10:10:10 pwd
+  272  2018-09-23 10:10:32 ls
+  273  2018-09-23 10:10:44 jupyter-notebook 
+  274  2018-09-23 10:50:31 pip install pycopg2
+  275  2018-09-23 10:50:35 pip install psycopg2
+  276  2018-09-23 10:50:45 pip install sqlalchemy
+  277  2018-09-23 10:51:10 jupyter-notebook 
+  278  2018-09-23 11:26:51 pip freeze | grep -i psycop
+  279  2018-09-23 11:26:56 jupyter-notebook 
+  280  2018-09-23 16:59:52 jupyter-notebook 
+  281  2018-09-23 17:15:36 jupyter-notebook 
+  282  2018-09-23 10:53:01 locate docker-compose.yml
+  283  2018-09-23 10:53:24 cd code/databases/
+  284  2018-09-23 10:53:24 ls
+  285  2018-09-23 10:53:29 docker-compose up
+  286  2018-09-24 23:50:50 cal
+  287  2018-09-24 23:51:09 bc -l
+  288  2018-09-26 09:31:00 cd code/kurs_sages_sql/
+  289  2018-09-26 09:31:02 git status
+  290  2018-09-26 09:33:20 git remote -v
+  291  2018-09-26 23:51:27 bc -l
+  292  2018-09-27 00:04:17 cal
+  293  2018-09-27 00:04:22 cal OCT
+  294  2018-09-27 00:04:25 cal OCT 2018
+  295  2018-09-27 00:04:39 bc -l
+  296  2018-09-27 22:42:12 cd code/
+  297  2018-09-27 22:42:21 git clone git@bitbucket.org:kpazik/oracle_vs_postgres.git
+  298  2018-09-27 22:42:34 git clone git@bitbucket.org:kpazik/oracle_vs_postgres.git
+  299  2018-09-27 22:42:52 git clone git@bitbucket.org:kpazik/oracle_vs_postgres.git
+  300  2018-09-27 22:43:11 git clone git@bitbucket.org:kpazik/oracle_vs_postgres.git
+  301  2018-09-27 22:45:19 whoami
+  302  2018-09-27 22:46:37 mv /Users/kamil/.ssh/id_rsa ../.bck_id_rsa
+  303  2018-09-27 22:46:43 mv /Users/kamil/.ssh/id_rsa.pub ../.bck_id_rsa.pub
+  304  2018-09-27 22:46:44 ls
+  305  2018-09-27 22:46:45 pwd
+  306  2018-09-27 22:46:56 ssh-keygen -t rsa
+  307  2018-09-27 22:47:51 pbcopy < ~/.ssh/id_rsa.pub
+  308  2018-09-27 22:48:19 git clone git@bitbucket.org:kpazik/oracle_vs_postgres.git
+  309  2018-09-27 22:48:32 ls
+  310  2018-09-27 22:48:36 cd -altd
+  311  2018-09-27 22:48:41 ls -altd
+  312  2018-09-27 22:48:44 ls -alt
+  313  2018-09-27 22:48:50 cd oracle_vs_postgres/
+  314  2018-09-27 22:48:51 ls
+  315  2018-09-27 22:48:53 git remtoe -v
+  316  2018-09-27 22:48:55 git remote -v
+  317  2018-09-27 22:51:18 vim README.md
+  318  2018-09-27 22:53:33 git status
+  319  2018-09-27 22:53:39 git add README.md 
+  320  2018-09-27 22:54:00 git commit -m "README.md added"
+  321  2018-09-27 22:54:03 git branch
+  322  2018-09-27 22:54:06 git push origin master
+  323  2018-09-27 22:54:51 ls
+  324  2018-09-27 22:55:58 ls
+  325  2018-09-27 23:00:53 ls
+  326  2018-09-27 23:00:57 mkdir tables
+  327  2018-09-27 23:00:58 cd tables/
+  328  2018-09-27 23:00:59 ls
+  329  2018-09-27 23:01:38 pwd
+  330  2018-09-27 23:02:10 git status
+  331  2018-09-27 23:02:13 pwd
+  332  2018-09-27 23:02:35 vim README.md
+  333  2018-09-27 23:03:15 ls
+  334  2018-09-27 23:03:24 vim table_creation.sql
+  335  2018-09-27 23:28:45 ls
+  336  2018-09-27 23:28:47 vim README.md 
+  337  2018-09-27 23:30:42 git status
+  338  2018-09-27 23:30:43 cd ..
+  339  2018-09-27 23:30:45 git status
+  340  2018-09-27 23:30:47 git add .
+  341  2018-09-27 23:30:59 git commit -m "added table creation"
+  342  2018-09-27 23:31:03 git push origin master
+  343  2018-09-27 23:31:56 eval `ssh-agent`
+  344  2018-09-27 23:32:04 ssh-add
+  345  2018-09-27 23:32:10 git push origin master
+  346  2018-09-27 23:32:59 vim README.md 
+  347  2018-09-27 23:33:06 cd tables/
+  348  2018-09-27 23:33:07 vim README.md 
+  349  2018-09-28 00:25:57 ls
+  350  2018-09-28 00:26:01 vim README.md 
+  351  2018-09-28 00:30:48 vim README.md 
+  352  2018-09-28 00:39:07 git status
+  353  2018-09-28 00:39:23 git status
+  354  2018-09-28 00:39:25 vim README.md 
+  355  2018-09-28 01:03:45 git status
+  356  2018-09-28 01:03:47 pwd
+  357  2018-09-28 01:03:49 cd ..
+  358  2018-09-28 01:03:50 ls
+  359  2018-09-28 01:03:55 mkdir select
+  360  2018-09-28 01:04:42 vim select/README.md
+  361  2018-09-28 01:23:38 vim README.md 
+  362  2018-09-28 01:23:48 vim tables/table_creation.sql 
+  363  2018-09-28 01:23:54 vim tables/README.md 
+  364  2018-09-28 01:36:58 ls
+  365  2018-09-28 01:37:02 vim README.md 
+  366  2018-09-28 01:43:01 git status
+  367  2018-09-28 01:43:03 cd add .
+  368  2018-09-28 01:43:09 git commit -m "+select"
+  369  2018-09-28 01:43:13 git add .
+  370  2018-09-28 01:43:15 git commit -m "+select"
+  371  2018-09-28 01:43:17 git push origin master
+  372  2018-09-29 21:09:20 cal JUN 2018
+  373  2018-09-29 22:41:36 bc -l
+  374  2018-09-28 01:31:23 cd code/sages_sql/ve
+  375  2018-09-28 01:31:25 cd code/
+  376  2018-09-28 01:31:26 ls
+  377  2018-09-28 01:31:30 cd kurs_sages_160918/
+  378  2018-09-28 01:31:31 ls
+  379  2018-09-28 01:31:33 git status
+  380  2018-09-28 01:31:35 git diff
+  381  2018-09-28 01:31:38 git remote -v
+  382  2018-09-28 01:31:44 git status
+  383  2018-09-28 01:31:45 git diff
+  384  2018-09-28 01:31:49 ls
+  385  2018-09-28 01:31:53 source venv/bin/activate
+  386  2018-09-28 01:31:55 jupyter-notebook 
+  387  2018-09-28 01:32:25 git status
+  388  2018-09-28 01:32:30 git add .
+  389  2018-09-28 01:32:36 git commit -m "?"
+  390  2018-09-28 01:32:39 git branch
+  391  2018-09-28 01:32:42 git push origin master
+  392  2018-09-28 01:32:49 git remote -v
+  393  2018-09-30 18:23:48 bc -l
+  394  2018-10-03 08:20:35 cd code/
+  395  2018-10-03 08:20:36 ls
+  396  2018-10-03 08:27:09 ls
+  397  2018-10-03 08:27:25 pandas
+  398  2018-10-03 08:27:25 Source
+  399  2018-10-03 08:27:25 Commits
+  400  2018-10-03 08:27:25 Branches
+  401  2018-10-03 08:27:25 Pull requests
+  402  2018-10-03 08:27:25 Pipelines
+  403  2018-10-03 08:27:25 Pipelines
+  404  2018-10-03 08:27:25 Deployments
+  405  2018-10-03 08:27:25 Deployments
+  406  2018-10-03 08:27:25 Issues
+  407  2018-10-03 08:27:25 Downloads
+  408  2018-10-03 08:27:25 Boards
+  409  2018-10-03 08:27:25 Boards
+  410  2018-10-03 08:27:25 Settings
+  411  2018-10-03 08:27:25 Kamil
+  412  2018-10-03 08:27:25 /
+  413  2018-10-03 08:27:25 courses
+  414  2018-10-03 08:27:25 pandas
+  415  2018-10-03 08:27:25 Clone
+  416  2018-10-03 08:27:25 Here's where you'll find this repository's source files. To give your users an idea of what they'll find here, add a description to your repository.
+  417  2018-10-03 08:27:25 master
+  418  2018-10-03 08:27:25 Filter files
+  419  2018-10-03 08:27:25 /
+  420  2018-10-03 08:27:25 Name    Size    Last commit    Message
+  421  2018-10-03 08:27:25 .gitignore    45 B    
+  422  2018-10-03 08:27:25 10 hours ago
+  423  2018-10-03 08:27:25 dodano zadania
+  424  2018-10-03 08:27:25 Pandas_operacje.ipynb    69.53 KB    
+  425  2018-10-03 08:27:25 4 hours ago
+  426  2018-10-03 08:27:25 some shit
+  427  2018-10-03 08:27:25 Python_agregacje.ipynb    786 B    
+  428  2018-10-03 08:27:25 10 hours ago
+  429  2018-10-03 08:27:25 dodano zadania
+  430  2018-10-03 08:27:25 README.md    3.56 KB    
+  431  2018-10-03 08:27:25 4 hours ago
+  432  2018-10-03 08:27:25 some shit
+  433  2018-10-03 08:27:25 Zadania.ipynb    3.73 KB    
+  434  2018-10-03 08:27:25 4 hours ago
+  435  2018-10-03 08:27:25 some shit
+  436  2018-10-03 08:27:25 eurofxref-hist.csv    1.3 MB    
+  437  2018-10-03 08:27:25 10 hours ago
+  438  2018-10-03 08:27:25 dodano zadania
+  439  2018-10-03 08:27:25 trash.ipynb    4.91 KB    
+  440  2018-10-03 08:27:25 4 hours ago
+  441  2018-10-03 08:27:25 some shit
+  442  2018-10-03 08:27:25 README.md
+  443  2018-10-03 08:27:25 Moduł pandas - przetwarzanie i analiza danych tabelarycznych: obróbka, czyszczenie, agregacje, transformacje danych.
+  444  2018-10-03 08:27:25 Repozytorium szkolenia pandas
+  445  2018-10-03 08:27:25 link do repo
+  446  2018-10-03 08:27:25 Cele szkolenia
+  447  2018-10-03 08:27:25 Wyjaśnić typy danych,
+  448  2018-10-03 08:27:25 Omówić konwersje typów,
+  449  2018-10-03 08:27:25 Omówić operację na danych
+  450  2018-10-03 08:27:25 Wymagania wstępne
+  451  2018-10-03 08:27:25 Aby móc pracować musimy się upewnić że posiadamy paczkę pandas pip list | grep -i pandas
+  452  2018-10-03 08:27:25 Jeśli nie mamy tworzymy nowe środowisko venvJeśli nie mamy tworzymy nowe środowisko venvJeśli nie mamy tworzymy nowe środowisko venvJeśli nie mamy tworzymy nowe środowirompt
+  453  2018-10-03 08:27:25 B. Z anacondą
+  454  2018-10-03 08:27:25 bash conda create --name data_courses source activate data_courses # aktywacja środowiska
+  455  2018-10-03 08:27:25 Instalujemy paczkę pandas
+  456  2018-10-03 08:27:25 bash pip install pandas
+  457  2018-10-03 08:27:30 Włączamy jupyter-notebook
+  458  2018-10-03 08:27:30 bash jupyter-notebook
+  459  2018-10-03 08:31:16 ls
+  460  2018-10-03 08:31:37 ls
+  461  2018-10-03 08:31:38 cd code/
+  462  2018-10-03 08:31:38 ls
+  463  2018-10-03 08:36:42 git clone git clone https://kpazik-admin@bitbucket.org/kpazik/pandas.git
+  464  2018-10-03 08:36:49 git clone https://kpazik-admin@bitbucket.org/kpazik/pandas.git
+  465  2018-10-03 08:36:56 cd pandas/
+  466  2018-10-03 08:36:56 ls
+  467  2018-10-03 08:37:03 cd ..
+  468  2018-10-03 08:37:12 mv pandas/ pandas_tmp
+  469  2018-10-03 08:37:18 git clone https://kpazik-admin@bitbucket.org/kpazik/pandas.git
+  470  2018-10-03 08:37:25 ls
+  471  2018-10-03 08:37:29 ls
+  472  2018-10-03 08:37:35 cd pandas
+  473  2018-10-03 08:37:35 ls
+  474  2018-10-03 08:37:52 cd ..
+  475  2018-10-03 08:37:53 ls
+  476  2018-10-03 08:38:30 cp -r datascience/venv/ pandas
+  477  2018-10-03 08:38:33 cp -r datascience/venv/ pandas/
+  478  2018-10-03 08:38:48 ls -al pandas
+  479  2018-10-03 08:38:54 ls
+  480  2018-10-03 08:39:02 cp -r datascience/venv/ pandas/venv/
+  481  2018-10-03 08:39:50 cd pandas/venv/
+  482  2018-10-03 08:39:51 ls
+  483  2018-10-03 08:39:59 cd ..
+  484  2018-10-03 08:40:00 pwd
+  485  2018-10-03 08:40:03 source bin/activate
+  486  2018-10-03 08:40:04 ls
+  487  2018-10-03 08:40:16 pip freeze | grep -i pandas
+  488  2018-10-03 08:40:22 jupyter-notebook 
+  489  2018-10-03 19:38:36 cd code/
+  490  2018-10-03 19:38:37 ls
+  491  2018-10-03 19:38:54 source datascience/venv/bin/activate
+  492  2018-10-03 19:38:57 jupyter-notebook 
+  493  2018-10-13 00:18:54 bc -l
+  494  2018-10-13 02:05:36 sl
+  495  2018-10-13 02:05:37 ls
+  496  2018-10-13 02:05:38 cd code/
+  497  2018-10-13 02:05:40 ls -alt
+  498  2018-10-13 02:05:57 cd kurs_sages_160918/
+  499  2018-10-13 02:05:58 ls
+  500  2018-10-13 02:11:21 ipython
+  501  2018-10-13 16:03:37 cd code/sages_kurs_13102018/
+  502  2018-10-13 16:03:38 ls
+  503  2018-10-13 16:03:39 git status
+  504  2018-10-13 16:05:01 git status
+  505  2018-10-13 16:05:19 git status
+  506  2018-10-13 16:05:21 git status
+  507  2018-10-13 16:05:30 git status
+  508  2018-10-13 16:05:33 pwd
+  509  2018-10-13 16:05:33 ls
+  510  2018-10-13 16:05:52 git diff
+  511  2018-10-13 16:06:30 git status
+  512  2018-10-13 16:07:27 pwd
+  513  2018-10-13 16:07:34 git status
+  514  2018-10-13 16:07:50 pwd
+  515  2018-10-13 16:10:44 git status
+  516  2018-10-13 16:11:47 touch .gitignore
+  517  2018-10-13 16:12:29 nano .gitignore 
+  518  2018-10-13 16:12:47 nano .gitignore 
+  519  2018-10-13 16:13:26 nano .gitignore 
+  520  2018-10-13 16:13:41 nano .gitignore 
+  521  2018-10-13 16:13:57 nano .gitignore 
+  522  2018-10-13 16:14:29 cat .gitignore 
+  523  2018-10-13 16:14:34 git status
+  524  2018-10-13 16:15:25 nano .gitignore 
+  525  2018-10-13 16:15:44 cat .gitignore 
+  526  2018-10-13 16:15:49 git status
+  527  2018-10-13 16:16:39 git add .
+  528  2018-10-13 16:16:42 git status
+  529  2018-10-13 16:17:21 git log
+  530  2018-10-13 16:17:37 ls -al .git
+  531  2018-10-13 16:18:13 git status
+  532  2018-10-13 16:18:57 git commit -m "Dodalem pierwszy plik jupyter oraz .gitignore"
+  533  2018-10-13 16:19:31 git push origin master
+  534  2018-10-13 16:34:20 git status
+  535  2018-10-13 16:34:55 git status
+  536  2018-10-13 16:35:02 git diff
+  537  2018-10-13 16:35:49 git status
+  538  2018-10-13 16:36:14 git add .
+  539  2018-10-13 16:36:27 git commit -m "Zmieniono plik jupyter"
+  540  2018-10-13 16:36:47 git push origin master
+  541  2018-10-13 16:55:08 git status
+  542  2018-10-13 16:55:34 git add .
+  543  2018-10-13 16:56:00 git commit -m "Dodałem zmienne znakowe"
+  544  2018-10-13 16:56:06 git push origin master
+  545  2018-10-13 16:56:55 cd /tmp
+  546  2018-10-13 16:57:41 git clone https://github.com/pazikkamil/sages_kurs_13102018.git
+  547  2018-10-13 16:57:44 ls
+  548  2018-10-13 16:57:48 cd sages_kurs_13102018/
+  549  2018-10-13 16:57:49 ls
+  550  2018-10-13 16:58:00 cat .gitignore 
+  551  2018-10-13 17:03:48 history
+  552  2018-10-13 17:03:55 cd ~/
+  553  2018-10-13 17:03:59 mkdir tmp
+  554  2018-10-13 17:04:04 git clone https://github.com/pazikkamil/sages_kurs_13102018.git
+  555  2018-10-13 17:04:08 pwd
+  556  2018-10-13 17:04:13 cd tmp/
+  557  2018-10-13 17:04:14 pwd
+  558  2018-10-13 17:04:16 git clone https://github.com/pazikkamil/sages_kurs_13102018.git
+  559  2018-10-13 17:05:34 cd ~/code/sages_kurs_13102018/
+  560  2018-10-13 17:05:34 ls
+  561  2018-10-13 17:05:42 history 
+  562  2018-10-13 17:06:03 history  > historia_bash
